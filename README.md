@@ -1,0 +1,2 @@
+# Ama
+ama-vsproject
