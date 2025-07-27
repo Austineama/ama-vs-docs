@@ -1,0 +1,13 @@
+site_name: Ama VS Project Docs
+site_url: https://austineama.github.io/Ama
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: amber
+nav:
+  - Home: index.md
+  - Dashboard: dashboard.md
+  - How to Use: usage.md
+  - FAQ: faq.md
+  - About: about.md
